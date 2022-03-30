@@ -1,0 +1,12 @@
+body{
+    background-color: black;
+    color: #fff;
+}
+
+#pizzas{
+    background-color: white;
+    width: 10vw;
+    height: 15vw;
+    margin: 1vw;
+    color: black;
+}
